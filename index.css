@@ -48,6 +48,7 @@ input {
 }
 
 .btn {
+    margin: 1rem;
     margin-top: 2rem;
     width: 25rem;
 }
