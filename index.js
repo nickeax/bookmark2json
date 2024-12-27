@@ -7,7 +7,7 @@ const clipboard = document.querySelector("#clipboard");
 
 clipboard.addEventListener("click", copyToClipboard);
 clearButton.addEventListener('click', clearAll);
-const boundarySymbol = '|';
+const boundarySymbol = 'https://';
 
 saveButton.addEventListener('click', process);
 
